@@ -11,9 +11,9 @@ Proyecto individual de desarrollo tecnológico orientado a construir una herrami
 
 ## Fase 1 — Iniciación (Semana 5)
 
-- [Acta de Constitución](Acta-de-Constitución.md)
+- [Acta de Constitución](Acta-de-Constitucion.md)
 - [Análisis de Interesados](Análisis-de-Interesados.md)
-- [Visión del Proyecto](Visión-del-Proyecto.md)
+- [Visión del Proyecto](Vision-del-Proyecto.md)
 - [Matriz de Interesados (Excel)](Matriz-Interesados.xlsx)
 
 ## Fase 2 — Planeación (Semana 6)
@@ -30,7 +30,7 @@ Proyecto individual de desarrollo tecnológico orientado a construir una herrami
 
 ## Documentación técnica
 
-- [Arquitectura Técnica](Arquitectura-Técnica.md)
+- [Arquitectura Técnica](Arquitectura-Tecnica.md)
 - [Página general del proyecto](Home.md)
 
 > La documentación distingue entre los avances del prototipo, los entregables académicos y las funcionalidades previstas para etapas posteriores.
