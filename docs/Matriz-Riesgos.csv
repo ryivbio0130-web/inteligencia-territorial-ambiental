@@ -1,0 +1,11 @@
+﻿ID,Riesgo,Probabilidad,Impacto,Exposición,Prevención,Contingencia
+R01,Sobrecarga por ejecución individual,3,3,9,Priorizar hito 8; limitar alcance; revisión semanal,Reducir módulos y reprogramar fases
+R02,Dependencia de notebook y funciones faltantes,3,3,9,"Inventario, entorno reproducible, pruebas mínimas",Presentar fallo reproducible y corrección priorizada
+R03,Datos simulados confundidos con reales,2,3,6,Bandera de procedencia; prohibir fallback silencioso,Invalidar salida y repetir con fuente real
+R04,Fuentes externas inaccesibles,3,2,6,"Reintentos, caché, registro de fuente",Usar dataset real descargado con versión y licencia
+R05,Superficies y geometrías no representativas,3,3,9,"CRS, geometrías válidas, cobertura cartográfica",Suspender valoración de área y reportar limitación
+R06,K-means no validado o función ausente,3,2,6,"Prueba de función, silhouette y sensibilidad",Desactivar módulo y registrar error
+R07,Valoración económica arbitraria o doble conteo,3,3,9,Métodos por servicio y áreas elegibles,No publicar cifra monetaria
+R08,Restricciones de licencias y datos sensibles,2,3,6,Inventario de licencias y políticas de publicación,Restringir difusión y sustituir fuente
+R09,Inconsistencia entre PDF y resultados,2,2,4,Plantillas alimentadas desde salidas verificadas,Entregar resultados tabulares con advertencia
+R10,Desfase con calendario académico,2,3,6,Confirmar fechas con docente; checklist S5/S6,Entregar primero documentos obligatorios

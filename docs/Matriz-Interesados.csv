@@ -1,0 +1,10 @@
+﻿ID,Actor,Rol,Poder,Interés,Influencia,Estrategia,Acción,Estado
+S01,Promotor y consultor principal,"Dirección, desarrollo y uso",Alto,Alto,Alto,Gestionar directamente,Revisión semanal; priorizar alcance,Confirmado: una persona
+S02,Docente evaluador,Revisión de entregas académicas,Alto (académico),Alto,Alto,Gestionar de cerca,Verificar rúbrica y fechas,Rol académico; persona por definir
+S03,Especialista SIG,Validación espacial puntual,Bajo,Medio,Alto,Consultar,"Revisión de CRS, geometrías y áreas","Potencial, no confirmado"
+S04,Especialista en ecología,Validación de indicadores,Bajo,Medio,Alto,Consultar,Contrastar supuestos y clasificación,"Potencial, no confirmado"
+S05,Especialista en economía ambiental,Validación de estimaciones,Bajo,Medio,Alto,Consultar,Revisión de método y no doble conteo,"Potencial, no confirmado"
+S06,Clientes potenciales,Requisitos y aceptación del servicio,Medio,Alto,Medio,Mantener involucrados,Entrevistas o revisión de informe piloto,"Potenciales, no identificados"
+S07,Proveedores de datos,Acceso y condiciones de uso,Medio,Medio,Alto,Monitorear y cumplir condiciones,"Verificar licencia, cobertura y cambios de API",Fuentes externas
+S08,Organizaciones/actores territoriales,Pertinencia y uso responsable,Variable,Variable,Alto,Consultar cuando aplique,Revisar sensibilidad y contexto del territorio,Depende del caso de estudio
+S09,ESEIT / coordinación académica,Lineamientos y calendario,Alto (académico),Medio,Alto,Mantener satisfecho,Entregas conforme a la guía,Institución académica
