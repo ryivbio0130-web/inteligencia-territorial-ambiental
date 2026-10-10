@@ -12,7 +12,7 @@ Proyecto individual de desarrollo tecnológico orientado a construir una herrami
 ## Fase 1 — Iniciación (Semana 5)
 
 - [Acta de Constitución](Acta-de-Constitucion.md)
-- [Análisis de Interesados](Análisis-de-Interesados.md)
+- [Análisis de Interesados](Analisis-de-Interesados.md)
 - [Visión del Proyecto](Vision-del-Proyecto.md)
 - [Matriz de Interesados (Excel)](Matriz-Interesados.xlsx)
 
