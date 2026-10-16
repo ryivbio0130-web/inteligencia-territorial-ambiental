@@ -50,7 +50,7 @@ Diseñar, desarrollar y validar progresivamente una herramienta modular de intel
 
 ## 6. Interesados y roles
 - **Promotor/desarrollador Ricardo Ibarguen:** dirección, análisis, programación, pruebas, documentación y decisiones de alcance.
-- **Docente o tutor académico (Cesar Augusto Espinosa Vargas):** evaluación y orientación; no se le asignan tareas de desarrollo.
+- **Docente o tutor académico Cesar Augusto Espinosa Vargas:** evaluación y orientación; no se le asignan tareas de desarrollo.
 - **Especialistas SIG, ecología y economía ambiental (potenciales):** revisión metodológica puntual; participación no confirmada.
 - **Clientes potenciales:** retroalimentación sobre utilidad de los productos; no son financiadores confirmados.
 - **Proveedores de datos:** fuentes sujetas a términos de uso y disponibilidad.
