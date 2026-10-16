@@ -18,13 +18,11 @@ Presupuesto académico **estimado**, no cotización ni gasto ejecutado. Desarrol
 ## 3. Componentes de costo
 | Concepto | Cantidad | Tarifa / costo unitario | Naturaleza |
 |---|---:|---|---|
-| Tiempo del promotor | 180 h | **Por definir** COP/h | Costo valorizado |
-| Equipo propio e internet | Según uso | **Por definir** | Recurso disponible o desembolso incremental |
+| Tiempo del promotor | 180 h | 70000 COP/h | Costo valorizado |
+| Equipo propio e internet | Según uso | **115000** | Recurso disponible o desembolso incremental |
 | Almacenamiento/infraestructura | Según consumo | **Por definir** | Desembolso potencial |
-| Revisión especializada | Horas según necesidad | **Por definir** | Desembolso potencial, no confirmado |
+| Revisión especializada-Asistencia IA generativa | 180 h | **80000 COP* | Desembolso potencial, no confirmado |
 | Contingencia | % configurable | **Por definir** | Reserva estimada |
-
-No se asigna arbitrariamente una tarifa profesional ni se presentan cifras como precios de mercado. La hoja de cálculo incorpora campos editables y subtotales automáticos.
 
 ## 4. Fórmula de presupuesto
 **Costo total estimado = horas × tarifa de referencia + desembolsos previstos + contingencia aplicable.** Separar el costo valorizado de los desembolsos reales al presentar el resultado.
