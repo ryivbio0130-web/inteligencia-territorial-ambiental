@@ -18,7 +18,6 @@ Presentar la documentación ESEIT de semanas 5 y 6 y evidencia del estado técni
 | Prueba controlada | Entrada, ejecución, salida y registro de errores | Pendiente de ejecución | Añadir log/archivo |
 | Informe de avance | Logros, bloqueos, siguiente fase | Pendiente | Añadir informe |
 
-> **Importante:** «borrador preparado» indica que existe documentación inicial, **no** que esté publicada en GitHub, aprobada o evaluada.
 
 ## 3. Alcance mínimo de la prueba
 1. Seleccionar explícitamente un territorio y fuente de datos.
