@@ -8,13 +8,13 @@
 | Entrega académica de referencia | 4 de noviembre de 2026 (semana 8) |
 | Horizonte de desarrollo | 24 semanas; hasta el 24 de febrero de 2027 |
 | Dedicación | 7–8 h/semana (180 h de planeación; intervalo 168–192 h) |
-| Responsable / director / desarrollador | Estudiante promotor del proyecto — **nombre pendiente de completar** |
-| Docente evaluador | **Pendiente de identificar** |
+| Responsable / director / desarrollador | Estudiante promotor del proyecto — Ricardo Ibarguen |
+| Docente evaluador | Cesar Augusto Espinosa Vargas|
 | Patrocinador financiero | No identificado; no se presume financiación |
 | Versión y estado | 2.0 — borrador para validación académica |
 
 ## 1. Antecedentes y justificación
-Existe un prototipo en notebook Python de ingesta ambiental y de biodiversidad, análisis geoespacial, agrupamiento K-means, conectividad, estimaciones económicas, mapas e informes. El análisis de sus versiones anteriores detectó dependencias de notebook, funciones incompletas, rutas específicas, simulaciones implícitas y supuestos económicos que requieren validación. **La existencia de código no implica que todos los cálculos estén validados.**
+Existe un prototipo en notebook Python de ingesta ambiental y de biodiversidad, análisis geoespacial, agrupamiento K-means, conectividad, estimaciones económicas, mapas e informes. El análisis de las versiones anteriores detectó dependencias de notebook, funciones incompletas, rutas específicas, simulaciones implícitas y supuestos económicos que requieren validación. **La existencia de código no implica que todos los cálculos estén validados.**
 
 El proyecto busca transformar este prototipo en una herramienta de uso individual que facilite estudios repetibles en territorios de Colombia, con resultados trazables y adecuados para servicios de consultoría ambiental.
 
@@ -49,8 +49,8 @@ Diseñar, desarrollar y validar progresivamente una herramienta modular de intel
 | P3 | Productos profesionales y MVP personal | Posterior | Exportaciones e informe piloto |
 
 ## 6. Interesados y roles
-- **Promotor/desarrollador (una persona):** dirección, análisis, programación, pruebas, documentación y decisiones de alcance.
-- **Docente o tutor académico (si se asigna):** evaluación y orientación; no se le asignan tareas de desarrollo.
+- **Promotor/desarrollador Ricardo Ibarguen:** dirección, análisis, programación, pruebas, documentación y decisiones de alcance.
+- **Docente o tutor académico (Cesar Augusto Espinosa Vargas):** evaluación y orientación; no se le asignan tareas de desarrollo.
 - **Especialistas SIG, ecología y economía ambiental (potenciales):** revisión metodológica puntual; participación no confirmada.
 - **Clientes potenciales:** retroalimentación sobre utilidad de los productos; no son financiadores confirmados.
 - **Proveedores de datos:** fuentes sujetas a términos de uso y disponibilidad.
