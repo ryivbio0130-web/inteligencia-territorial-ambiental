@@ -7,7 +7,7 @@ Disponer de una herramienta tecnológica propia y metodológicamente sólida que
 Los análisis territoriales suelen requerir integrar fuentes heterogéneas, verificar su calidad, procesar geometrías y generar productos que puedan auditarse. El notebook actual reúne funciones útiles, pero su operación y la validez de algunos supuestos necesitan fortalecerse antes de ofrecer resultados a clientes.
 
 ## Contribución a objetivos académicos y profesionales
-No se ha aportado un plan estratégico institucional; por ello no se atribuyen objetivos formales a ESEIT. La contribución **propuesta** consiste en aplicar conocimientos de ingeniería y gestión de proyectos, documentar decisiones técnicas, desarrollar software reproducible y preparar capacidades profesionales de consultoría.
+La contribución **propuesta** consiste en aplicar conocimientos de ingeniería y gestión de proyectos, documentar decisiones técnicas, desarrollar software reproducible y preparar capacidades profesionales de consultoría.
 
 ## Beneficios esperados
 | Dimensión | Beneficio | Evidencia futura |
